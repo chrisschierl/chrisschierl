@@ -1,5 +1,6 @@
 <div align="center">
-# Hi there 👋, I'm Chris Schierl!
+  
+## Hi there 👋, I'm Chris Schierl!
 
 I’m passionate about DevOps, Cloud Infrastructure, and all things in the DevOps world. I love automating workflows, optimizing infrastructure, and ensuring everything runs smoothly in the cloud.
 
